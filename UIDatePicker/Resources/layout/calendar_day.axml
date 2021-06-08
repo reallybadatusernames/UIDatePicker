@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UIDatePicker.Android.PickerDay xmlns:android="http://schemas.android.com/apk/res/android"
+	android:text="0" 
+	android:textAlignment="center" 
+    android:layout_width="0dp"
+	android:fontFamily="@font/opensans_semi_bold"
+		android:textColor="@color/material_grey_600"
+    android:layout_height="wrap_content"
+	android:layout_weight="1"
+	android:gravity="center"/>
